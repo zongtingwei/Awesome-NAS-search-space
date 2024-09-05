@@ -1,5 +1,5 @@
 # Awesome-NAS-search-space
-Some papers to break the limits of NAS search space.
+Some papers about breaking the limits of NAS search space.
 # Paper List of NAS search space
 
 
