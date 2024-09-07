@@ -12,3 +12,4 @@ Paper list of NAS serach space
 | 2024 | [Evolutionary Neural Architecture Search for 3D Point Cloud Analysis](https://arxiv.org/abs/2408.05556) |                                                             |
 | 2024 | [Efficient Multi-Objective Neural Architecture Search via Pareto Dominance-based Novelty Search](https://arxiv.org/abs/2407.20656) (Accepted by GECCO 2024)|                                                            |
 | 2024 | [CAP: A Context-Aware Neural Predictor for NAS](https://arxiv.org/abs/2406.02056)(Accepted by IJCAI 2024)  |   [[Code](https://github.com/jihan4431/CAP)]                                                           |
+| 2024 | [Towards Accurate and Robust Architectures via Neural Architecture Search](https://arxiv.org/abs/2405.05502)(Accepted by CVPR 2024)  |                                                             |
