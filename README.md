@@ -6,5 +6,4 @@ Paper list of NAS serach space
 
 | Year | Paper with link                                              | Code                                                         |
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2023 | [Adaptive multi-objective particle swarm optimization based on
-virtual Pareto front](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015742?via%3Dihub)(Accepted by Elsevier) |            |
+| 2023 | [Construction of Hierarchical Neural Architecture Search Spaces based on Context-free Grammars](https://arxiv.org/abs/2211.01842)(Accepted by nips 2023) |  [[Code](https://github.com/automl/hierarchical_nas_construction)]          |
